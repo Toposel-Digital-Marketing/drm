@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg height="72.0" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="0.0 0.0 52.3 72.0" width="52.3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+><g
+  ><g id="change1_1"
+    ><path d="M34.2,0H4.8C2.2,0,0,2.2,0,4.8v62.3C0,69.8,2.2,72,4.8,72h42.6c2.7,0,4.8-2.2,4.8-4.8v-49L34.2,0z" fill="#7249BC"
+    /></g
+    ><g id="change2_1"
+    ><path d="M34.2 0L34.2 18.1 52.3 18.1" fill="#221F1F" opacity=".35"
+    /></g
+    ><g id="change3_1"
+    ><circle cx="13.1" cy="33.4" fill="#FFF" r="2.8"
+    /></g
+    ><g id="change3_2"
+    ><circle cx="13.1" cy="42.3" fill="#FFF" r="2.8"
+    /></g
+    ><g id="change3_3"
+    ><circle cx="13.1" cy="51.2" fill="#FFF" r="2.8"
+    /></g
+    ><g id="change3_4"
+    ><path d="M20.4 31.5H40.2V35.4H20.4z" fill="#FFF"
+    /></g
+    ><g id="change3_5"
+    ><path d="M20.4 40.4H40.2V44.3H20.4z" fill="#FFF"
+    /></g
+    ><g id="change3_6"
+    ><path d="M20.4 49.3H40.2V53.199999999999996H20.4z" fill="#FFF"
+    /></g
+  ></g
+></svg
+>
